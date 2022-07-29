@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 
 import { FirstAndSecondContainer } from "./components/FirstAndSecondContainer";
-import Header from "./components/FirstAndSecondContainer/Header";
+import Header from "./components/Header";
 import { Main, Section, Sticky } from "./styles";
 import GlobalStyles from "./styles/global";
 
